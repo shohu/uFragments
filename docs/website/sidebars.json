@@ -1,5 +1,9 @@
 {
   "docs-api": {
+    "LIB": [
+      "lib_SafeMathInt",
+      "lib_UInt256Lib"
+    ],
     "API": [
       "Migrations",
       "UFragments",

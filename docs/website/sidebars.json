@@ -1,0 +1,10 @@
+{
+  "docs-api": {
+    "API": [
+      "Migrations",
+      "UFragments",
+      "UFragmentsPolicy",
+      "UFragmentsPolicy_MarketOracle"
+    ]
+  }
+}
